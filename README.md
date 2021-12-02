@@ -1,3 +1,3 @@
 # 90DaysDSA
 
-Day 1: Time complexity
+Day 1:
