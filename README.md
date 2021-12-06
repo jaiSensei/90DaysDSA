@@ -7,3 +7,6 @@ Day 2:
       • Recursion Basics ( Factorial, fibonacchi)
 Day 3: 
       • Recursion questions (sorting array, powerrecursion, binary search)
+Day 4: -didn't do anything
+Day 5: 
+      • Recursion Questions from Codechef.
