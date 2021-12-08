@@ -10,3 +10,5 @@ Day 3:
 Day 4: -didn't do anything
 Day 5: 
       • Recursion Questions from Codechef.
+Day 6: 
+      • Advanced Recursion and Backtraking ( Parenthesis Question )
